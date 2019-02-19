@@ -4,7 +4,7 @@ import java.awt.event.*;
 public class DataEntry {
   public static void main(String[] args) {
   Frame frm=new Frame("DataEntry frame");
-  Label lbl = new Label("Please fill the form:");
+  Label lbl = new Label("Please fill up this form:");
   frm.add(lbl);
   frm.setSize(350,200);
   frm.setVisible(true);
